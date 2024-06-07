@@ -1,0 +1,2 @@
+clima/* filter=lfs diff=lfs merge=lfs -text
+clima/ filter=lfs diff=lfs merge=lfs -text
